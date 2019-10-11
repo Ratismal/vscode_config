@@ -1,0 +1,69 @@
+{
+  "solargraph.checkGemVersion": false,
+  "git.enableSmartCommit": true,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "git.confirmSync": false,
+  "[javascript]": {},
+  "workbench.colorTheme": "Nord",
+  "editor.fontFamily": "pointfree",
+  "editor.renderWhitespace": "boundary",
+  "editor.rulers": [
+    120
+  ],
+  "git.autofetch": false,
+  "editor.formatOnType": true,
+  "editor.cursorBlinking": "expand",
+  "editor.renderIndentGuides": true,
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "typescript.format.enable": true,
+  "javascript.format.enable": true,
+  "editor.trimAutoWhitespace": true,
+  "html.format.unformatted": "a, abbr, acronym, b, bdo, big, br, button, cite, code, dfn, em, i, img, input, kbd, label, map, object, q, samp, select, small, span, strong, sub, sup, textarea, tt, var, script",
+  "html.format.contentUnformatted": "pre, script",
+  "[handlebars]": {},
+  "editor.minimap.enabled": true,
+  "editor.minimap.renderCharacters": true,
+  "editor.minimap.maxColumn": 120,
+  "terminal.integrated.shell.linux": "bash",
+  "window.zoomLevel": 0,
+  "scss.validate": true,
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "javascript.validate.enable": true,
+  "eslint.enable": true,
+  "eslint.validate": [
+    "javascript",
+    {
+      "autoFix": true,
+      "language": "js.erb"
+    },
+    {
+      "autoFix": true,
+      "language": "vue"
+    }
+  ],
+  "search.location": "sidebar",
+  "ruby.lint": {
+    "rubocop": {
+      "command": "rubocop",
+      "lint": true
+    }
+  },
+  "ruby.format": false,
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.useLanguageServer": true,
+  "git.ignoreLegacyWarning": true,
+  "remote.containers.defaultExtensions": [
+    "rebornix.ruby",
+    "misogi.ruby-rubocop",
+    "eamodio.gitlens",
+    "ratismal.granify-utilities",
+    "robinbentley.sass-indented"
+  ],
+  "[ruby]": {
+    "editor.defaultFormatter": "rebornix.ruby"
+  },
+  "ruby.rubocop.onSave": false,
+}

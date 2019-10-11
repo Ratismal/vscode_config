@@ -1,0 +1,1 @@
+i just want to sync my vscode configuration between all my devices :c
